@@ -1,0 +1,29 @@
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', Verdana, sans-serif;
+    background-color: antiquewhite;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    color:brown;
+}
+
+.description {
+    background-color: burlywood;
+    width: 500px;
+    height: auto;
+}
+
+div p {
+    color:whitesmoke;
+}
+
+.ingredient {
+    color: peru;
+}
